@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-purchase-orders-react-native",
+  "capabilityKey": "planned:ecommerce:purchase-orders",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-ecommerce-purchase-orders-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/ecommerce/nextjs/purchase-orders.md",
+  "presentationPlan": "projects/ecommerce/react-native/purchase-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
